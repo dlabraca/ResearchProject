@@ -13,7 +13,7 @@ Htests.py - Nonparametric detection for changes in location and/or scale as seen
 
 - It is essentially a python implementation of the R package CPM: https://cran.r-project.org/web/packages/cpm/cpm.pdf
 
-ThresholdMonte.py - Code to simulate the threshold values used in the detector. The outline of the algorithm can be seen in the paper above.
+ThresholdMonte.py - Code to simulate the threshold values used in the detector. The outline of the algorithm can be seen in the paper above by  Ross, Gordon & Tasoulis, Dimitris & Adams, Niall.
 
 Thresholds - Contains some generated thresholds of varying lengths - simulated using 10^5 streams 
 
