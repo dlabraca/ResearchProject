@@ -3,7 +3,7 @@ Implementations and demonstrations of change point detection methods for my Rese
 
 BOCD.py - Bayesian Online Change Point Detection as seen in: Ryan P. Adams, David J.C. MacKay, Bayesian Online Changepoint Detection, arXiv 0710.3742 (2007)
 
-Code has been built upon the implementation here:https://github.com/hildensia/bayesian_changepoint_detection
+- Code has been built upon the implementation here:https://github.com/hildensia/bayesian_changepoint_detection
 
 - added more Gaussian cases, predictive mean and variance and inference of change point locations by maximum a posteriori estimator of posterior predictive distribution p(r_1, ..., r_{t+1} | x){1:t}).
 
