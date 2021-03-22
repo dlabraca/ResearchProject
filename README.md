@@ -11,7 +11,7 @@ Code has been built upon the implementation here:https://github.com/hildensia/ba
 
 Htests.py - Nonparametric detection for changes in location and/or scale as seen in: Ross, Gordon & Tasoulis, Dimitris & Adams, Niall. (2012). Nonparametric Monitoring of Data Streams for Changes in Location and Scale. Technometrics. 53. 379-389. 10.1198/TECH.2011.10069. 
 
-It is essentially a python implementation of the R package CPM: https://cran.r-project.org/web/packages/cpm/cpm.pdf
+- It is essentially a python implementation of the R package CPM: https://cran.r-project.org/web/packages/cpm/cpm.pdf
 
 ThresholdMonte.py - Code to simulate the threshold values used in the detector. The outline of the algorithm can be seen in the paper above.
 
